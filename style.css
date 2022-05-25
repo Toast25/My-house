@@ -1,0 +1,16 @@
+body{
+    background-position: center;
+    background-size: cover;
+    text-align:center;
+}
+#h_1{
+font-size:35px !important;
+width:100%;
+background:linear-gradient(rgb(45, 223, 223), rgb(57, 238, 238), rgb(43, 248, 248));
+top:-10 !important;
+padding:5px;
+height:50px;
+}
+canvas{
+    margin-top:200px;   
+}
